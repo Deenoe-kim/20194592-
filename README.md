@@ -24,6 +24,14 @@ b : Batch 모드로 작동
 3) top -b -n 1
 ![실행 화면](https://www.dropbox.com/s/6nnakv6e4j2ojji/Screenshot%202018-07-18%2020.25.32.png?raw=1)
 
+3:58 : 3시간 58분 전에 서버가 구동
+load average : 현재 시스템이 얼마나 일을 하는지를 나타냄, 3개의 숫자는 각각 1분, 5분, 15분 간의 편균 실행/대기 중인 프로세스 수를 나타냄
+Tasks : 프로세스 개수
+KiV Mem, Swap : 각 메모리의 사용량
+PR : 실행 우선순위
+VIRT, RES, SHR : 메모리 사용량, 누수 체크 가능
+S : 프로세스 상태(작업 중, I/O 대기, 유휴 상태 등)
+
 * ps
 
 1) ps :
