@@ -21,6 +21,9 @@ a : 메모리 사용량에 따라 정렬
 b : Batch 모드로 작동
 1 : CPU Core 별로 사용량을 보여줌
 
+3) top -b -n 1
+<img src="https://www.dropbox.com/s/6nnakv6e4j2ojji/Screenshot%202018-07-18%2020.25.32.png?raw=1" width=“1280" height=“720">
+
 * ps
 
 1) ps :
