@@ -101,6 +101,7 @@ top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
 
 
 4) ps 출력 항목
+
 ![실행 화면2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuifZq%2Fbtq6lYjkzSE%2F6u09adRad4Y68mQ0tHI4xK%2Fimg.png)
 
 UID : 실행 유저
