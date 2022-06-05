@@ -13,12 +13,19 @@
 
 3) top 실행 후 명령어 :
 shift + p : cpu 사용률 내림차순
+
 shift + m : 메모리 사용률 내림차순
+
 shift + t : 프로세스가 돌아가고 있는 시간 순
+
 k : kill, k 입력 후 PID 번호 작성, signal은 9
+
 f : sort field 선택 화면, q 누르면 RES순으로 정렬
+
 a : 메모리 사용량에 따라 정렬
+
 b : Batch 모드로 작동
+
 1 : CPU Core 별로 사용량을 보여줌
 
 3) top -b -n 1
