@@ -100,6 +100,26 @@ ps는 ps한 시점에 proc에서 검색한 cpu 사용량을
 top은 proc에서 일정 주기로 합산해 cpu 사용율 출력
 
 
+4) ps 출력 항목
+![실행 화면2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuifZq%2Fbtq6lYjkzSE%2F6u09adRad4Y68mQ0tHI4xK%2Fimg.png)
+
+UID : 실행 유저
+
+PID : 프로세스 ID
+
+PPID : 부모 프로세스 ID
+
+C : cpu 사용량
+
+STIME : 시작 시간
+
+TTY : 프로세스 제어 위치 / - 콘솔 : tty1 / - 원격 : pts/1
+
+TIME : 구동 시간
+
+CMD : 실행 명령어
+
+
 * jobs
 
 1) jobs :
